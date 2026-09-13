@@ -297,19 +297,16 @@ A large difference in precision or false-positive rates between groups could ind
 •	Feature coefficient interpretation
 •	Segment-level evaluation
 
- **Suggested Repository Structure**
+ **Repository Structure**
 ML_LoanApproval
 │
-├── data/
-│  └── financial_loan_data.csv
-│
-├── notebooks/
-│  └── financial_loan_risk.ipynb
-│
-├── images/
-│   ├── Banner_ML.png
+├── Banner_ML.png 
 │
 ├── README.md
+│
+├── financial_loan_data.csv
+│
+├── financial_loan_risk.ipynb
 
 **How to Run the Project**
 1. Clone the repository
